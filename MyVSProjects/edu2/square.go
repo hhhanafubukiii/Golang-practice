@@ -1,4 +1,4 @@
-package main
+package edu2
 
 import (
 	"math"
