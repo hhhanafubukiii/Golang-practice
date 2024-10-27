@@ -1,4 +1,4 @@
-package github.com/hhhanafubukiii/Golang-practice
+package github.com/hhhanafubukiii/Golang-practice/mathSlice
 
 type Slice []Element
 
