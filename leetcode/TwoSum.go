@@ -1,4 +1,4 @@
-package mysecondmodule
+package github.com/hhhanafubukiii/Golang-practice/leetcode
 
 type Slice []int
 
